@@ -197,6 +197,14 @@ Stockholm
 8.20
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Copenhagen
+</td>
+<td style="text-align:right;">
+7.79
+</td>
+</tr>
 </tbody>
 </table>
 And we can produce a faceted plot comparing how building heights vary with distance from the calculated city centre. For the purposes of plotting, we again take 5% samples and exclude any zero/NA values. The trend lines here are esimated using the `gam` for `generalised additive model`.
